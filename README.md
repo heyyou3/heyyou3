@@ -8,7 +8,7 @@
     - Display Manager
         - SDDM
     - Window Manager
-        - [leftwm](https://github.com/leftwm/leftwm)
+        - [i3wm](https://i3wm.org)
 
 ## 好きなプログラミング言語
 
