@@ -1,6 +1,6 @@
 # heyyou3 について
 
-<img src="./images/mygopher.png" width="300px" height="400px">
+<img src="./images/mygopher.jpg" width="300px" height="400px">
 
 ## プライベート開発環境
 
