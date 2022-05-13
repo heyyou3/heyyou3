@@ -9,4 +9,4 @@
         - SDDM
     - Window Manager
         - [i3wm](https://i3wm.org)
-- [PopOS](https://pop.system76.com)
+- [Pop!_OS](https://pop.system76.com)
